@@ -10,12 +10,13 @@ And then there are questions where you'll flex your teaching skills. Our curricu
 
 You'll primarily be working with students on our chat platform, **Expert Chat / Ask a Question (AAQ)**. However, there are two other services Technical Coaches provide: **Study Groups** and **1 on 1 Portfolio Support**. This guide will cover all the logistical details of the job for working on AAQ and as well as provide you with the communication, debugging, and pedagogical training you need to be an effective Technical Coach. This guide also has quizzes along the way to help you better retain the information that you've read. Details regarding running Study Groups or 1 on 1 Support will be available to you if you work on either of those services, but many of the concepts covered in this guide apply to those as well. 
 
-Along with this track, there is a [reference guide](https://github.com/flatiron-labs/technical-coach-resources) that you will refer to frequently while working as a Technical Coach. Our [help center](http://help.learn.co/) is also a great resource for many issues you will see. We don't expect you to memorize the info, but if there are questions or issues that you're not sure about (especially technical and platform-related issues), check the reference guide or the help docs, as the answers will most likely be there.
+Along with this track, there is a [reference guide](https://github.com/flatiron-labs/technical-coach-resources) that you will refer to frequently while working as a Technical Coach. Our [Technical Coach Wiki](https://tc-wiki.com/) also provides easy access to a lot of commonly used information. Additionally, our [help center](http://help.learn.co/) is a great resource for many issues you will see. We don't expect you to memorize the info, but if there are questions or issues that you're not sure about (especially technical and platform-related issues), check the reference guide or the help docs, as the answers will most likely be there.
 
 Welcome aboard!
 
 ## Resources
 
+* [Technical Coach Wiki](https://tc-wiki.com/)
 * [Techinical Coach Reference Guide](https://github.com/flatiron-labs/technical-coach-resources) 
 * [Learn.co Help Center](http://help.learn.co/)
 

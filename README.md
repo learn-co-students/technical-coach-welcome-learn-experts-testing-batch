@@ -16,5 +16,5 @@ Welcome aboard!
 
 ## Resources
 
-* [Techinical Coach Reference Guide](https://github.com/flatiron-labs/technical-coach-resources)
+* [Technical Coach Reference Guide](https://github.com/flatiron-labs/technical-coach-resources)
 * [Learn.co Help Center](http://help.learn.co/)
